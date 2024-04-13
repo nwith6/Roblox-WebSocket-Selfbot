@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "deploy": "node deploy-commands.js && node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "request-promise": "^4.2.6"
+  }
+}
