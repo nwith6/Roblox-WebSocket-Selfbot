@@ -1,0 +1,14 @@
+{
+    "discord": {
+        "token": "",
+        "clientId": "",
+        "guildId": ""
+    },
+    "roblox": {
+        "cookie": ""
+    },
+    "admins": [],
+    "elevatedCommands": [
+        "whitelist"
+    ]
+}
