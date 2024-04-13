@@ -36,6 +36,7 @@ module.exports = {
             // return await interaction.reply({content: servers.error, ephemeral: true})
             return await utility.reply(interaction, {content: servers.error, ephemeral: true})
         }
+        await interaction.deferReply()
 
         const embed = utility.SERVER(servers.name, servers.url, servers.gameIconUrl, "```ini\n[ Fetching server data ]```")
         // await interaction.reply({embeds: [embed]})

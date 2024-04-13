@@ -30,6 +30,7 @@ module.exports = {
             // return await interaction.reply({content: server.error, ephemeral: true})
             return await utility.reply(interaction, {content: server.error, ephemeral: true})
         }
+        await interaction.deferReply()
 
         const socketData = await scraper.fetchServerSocket(server.gameId)
 
