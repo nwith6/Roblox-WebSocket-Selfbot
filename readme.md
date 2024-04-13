@@ -6,16 +6,16 @@ This bot sends requests to multiple roblox endpoints to find out the web sockets
 Unlike the previous bots, this one has a protected server bypass in it! This will likely be my most maintained repo, so for any updates refer to this repository, thank you!
 
 ## Examples
-![/getservers]()
+![/getservers](https://github.com/nwith6/Roblox-WebSocket-Selfbot/assets/79481053/029b66e6-43c9-459b-9636-098b19006571)
 
 
-![/getplayer]()
+![/getplayer](https://github.com/nwith6/Roblox-WebSocket-Selfbot/assets/79481053/5d0044d9-ec2f-480a-9353-d2db5fe6ad60)
 
 
-![/whitelist add]()
+![/whitelist add](https://github.com/nwith6/Roblox-WebSocket-Selfbot/assets/79481053/39d0da61-5460-41ca-8009-23352189f881)
 
 
-![/whitelist remove]()
+![/whitelist remove](https://github.com/nwith6/Roblox-WebSocket-Selfbot/assets/79481053/5c25c315-ba57-423c-bfae-f92ba10feb04)
 
 
 ## How to get started
